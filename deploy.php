@@ -9,9 +9,9 @@ set('domain','laravel.user.jc91715.top');//换成自己的域名
 set('application', 'laravel.user.jc91715.top'); //会部署在 /var/www/sites/laravel.deployer.user.jc91715.top下尽量domain一致
 // Project repository
 set('repository', 'https://gitee.com/wpjscc/laravel.git');//换成自己的
-set('server_ip','121.40.65.228');
-set('server_user','root');
-set('identityFile','~/.ssh/id_rsa');
+set('server_ip','121.40.65.228');//换成自己的
+set('server_user','root');//换成自己的
+set('identityFile','~/.ssh/id_rsa');//换成自己的
 /** 必填项 */
 
 
