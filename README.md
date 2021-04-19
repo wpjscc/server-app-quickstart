@@ -3,7 +3,7 @@
 
 > 维护了一些项目，每次都要ssh 登录服务器，安装环境，部署项目，在申请证书，支持https,一连串下来，好累。
 
-[dnmp](https://github.com/yeszao/dnmp.git) 配合 [部署工具 deployer](https://deployer.org/)，可以在10分钟内部署一套完整项目，解放双手，可以有更多时间了
+[dnmp](https://github.com/yeszao/dnmp.git) 配合 [部署工具 deployer](https://deployer.org/)，可以在10分钟内部署一套完整项目，解放双手，可以有更多的时间升级打怪了
 
  运行环境
 * [dnmp](https://github.com/yeszao/dnmp.git) 
